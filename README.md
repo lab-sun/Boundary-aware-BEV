@@ -28,6 +28,6 @@ python ./scripts/train_latent_diff.py --if_BoundaryLoss
   year={2025},
   volume={},
   number={},
-  pages={1-1}
+  pages={}
   doi={10.1109/TCSVT.2025.3564002}}
 ```
