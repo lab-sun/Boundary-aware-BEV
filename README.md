@@ -12,7 +12,9 @@ Semantic bird-eye-view (BEV) map is an efficient data representation for environ
 - The superiority of our proposed network is demonstrated by comparing it with state-of-the-art methods via extensive experiments.
 
 # Train on Boundary-aware-BEV
+```
 python ./scripts/train_latent_diff.py --if_BoundaryLoss
+```
 
 # Results
 ![The results of Boundary-aware-BEV](./imgs/results.png)
