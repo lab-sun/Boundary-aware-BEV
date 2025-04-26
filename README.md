@@ -1,5 +1,5 @@
 # Boundary-aware-BEV
-This is the offical PyTorch implementation of Boundary-aware Semantic Bird-Eye-View Map Generation based on Conditional Diffusion Models
+This is the offical PyTorch implementation of the IEEE-TCSVT paper: [Boundary-aware Semantic Bird-Eye-View Map Generation based on Conditional Diffusion Models](https://doi.org/10.1109/TCSVT.2025.3564002).
 
 ![The pipline of Boundary-aware-BEV](./imgs/overall.png)
 
@@ -16,3 +16,16 @@ python ./scripts/train_latent_diff.py --if_BoundaryLoss
 
 # Results
 ![The results of Boundary-aware-BEV](./imgs/results.png)
+
+## Citation
+```    
+@ARTICLE{10976449,
+  author={Gao, Shuang and Wang, Qiang and Sun, Yuxiang},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Boundary-aware Semantic Bird-Eye-View Map Generation based on Conditional Diffusion Models}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1}
+  doi={10.1109/TCSVT.2025.3564002}}
+```
