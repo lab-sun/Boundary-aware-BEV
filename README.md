@@ -22,7 +22,7 @@ python ./scripts/train_latent_diff.py --if_BoundaryLoss
 ## Citation
 ```    
 @ARTICLE{10976449,
-  author={Gao, Shuang and Wang, Qiang and Sun, Yuxiang},
+  author={Shuang Gao and Qiang Wang and Yuxiang Sun},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={Boundary-aware Semantic Bird-Eye-View Map Generation based on Conditional Diffusion Models}, 
   year={2025},
